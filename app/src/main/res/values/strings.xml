@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Attraxiatest</string>
+    <string name="network_message">You have a network issue, please connect again to receive live updates</string>
+    <string name="send_message_button">Send message button</string>
+    <string name="no_messages">No messages exist yet in this chat</string>
+    <string name="add_chat_button">Add chat button</string>
+    <string name="add_chat">Add Chat</string>
+    <string name="add">Add</string>
+</resources>
